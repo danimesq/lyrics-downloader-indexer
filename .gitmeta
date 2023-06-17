@@ -1,0 +1,4 @@
+chown -h 1000:1000 './[ChatGPT] Lyrics downloader-indexer.html'
+chmod 0664 './[ChatGPT] Lyrics downloader-indexer.html'
+/usr/bin/touch -hcmd "2023-04-19 17:29:36.8609653640 -0300" './[ChatGPT] Lyrics downloader-indexer.html'
+/usr/bin/touch -hcad "2023-06-16 22:53:17.7804338290 -0300" './[ChatGPT] Lyrics downloader-indexer.html'
